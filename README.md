@@ -26,3 +26,6 @@ The output is the following:
 
 > The analytical minimum of the quadratic curve is z = 1.0 at (x, y) = (0, 0)
 
+and the graph **3D Quadratic.png**
+
+[!3D Quadratic Graph] (https://github.com/DJDdawg/PHSX815_Week9/blob/main/3D%20Quadratic.png)
