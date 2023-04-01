@@ -8,6 +8,6 @@ An analytical solution can be found by taking the gradient and setting it equal 
 
 $\nabla f = (2ax + cy, cx + 2by) = (0, 0)$.
 
-Solving this system of equations only give the trivial solution (0, 0).
+Solving this system of equations only give the trivial solution (0, 0). Plugging this back into our function gives the minimum as $z = d$. 
 
-A minimimum exists for this function only if $4ab > c^2$.
+Note that a minimimum exists for this function only if $4ab > c^2$. Otherwise, it is a maximum.
