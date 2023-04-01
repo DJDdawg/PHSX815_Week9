@@ -11,3 +11,18 @@ $\nabla f = (2ax + cy, cx + 2by) = (0, 0)$.
 Solving this system of equations only give the trivial solution (0, 0). Plugging this back into our function gives the minimum as $z = d$. 
 
 Note that a minimimum exists for this function only if $4ab > c^2$. Otherwise, it is a maximum.
+
+The code file can be run with the following:
+
+>$ python3 Minimize3D.py -N 10000
+
+You can also mess around wit the following variables.
+
+'-a', '-b', '-c', '-d', which are the coefficients of our quadratic curve.
+
+'-xlowerbound', '-xupperbound', '-ylowerbound', '-yupperbound', which set the upper and lower bounds for each axis on the graph. 
+
+The output is the following:
+
+> The analytical minimum of the quadratic curve is z = 1.0 at (x, y) = (0, 0)
+
