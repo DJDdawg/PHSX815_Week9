@@ -28,4 +28,4 @@ The output is the following:
 
 and the graph **3D Quadratic.png**
 
-![3D Quadratic Graph.png] (https://github.com/DJDdawg/PHSX815_Week9/blob/main/3D%20Quadratic.png)
+![3DQuadraticGraph.png](https://github.com/DJDdawg/PHSX815_Week9/blob/main/3D%20Quadratic.png)
